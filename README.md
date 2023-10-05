@@ -71,8 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Git Usage
-1. `git clone`
-2. `git add`
-3. `git commit`
-4. `git push`
-5. `git pull`
+1. `git clone`: Clone the repo to your local
+2. `git add`: Add your changes from dev to staging
+3. `git commit`: Commit your changes from staging to local repo
+4. `git push`: Push your new commits from local repo to remote repo
+5. `git pull`: Pull latest changes from remote to local
